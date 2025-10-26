@@ -1,0 +1,7 @@
+{
+  "name": "Bionet - AI-Powered Bioscience Hub",
+  "description": "A decentralized global system for inventory tracking and exchange of physical biomaterials, augmented with powerful AI tools for data analysis, generation, and interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
